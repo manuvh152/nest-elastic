@@ -5,6 +5,7 @@
 # Nest-Elastic
 
 ## Description
+Elasticsearch implementation in NestJS using data scraped from Mercadolibre
 
 ## How to install
 1. Clone repository
